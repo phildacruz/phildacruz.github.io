@@ -1,0 +1,22 @@
+/* CSS Document */
+
+#camion_livraison, #cnil_cookie, #colonne_droite, #footer, #header, #infos_livraison, #infos_prix_lpp, #mon_compte_deconnecte, #mon_compte, #mon_compte_header, #prod_avis, #prod_other {display:none;}
+#prod_ligne_infos p.prix_actuel, #produit_visuel .loupe, #produit_visuel div.thumbs {display:none;}
+.client_connecte, input.hide, .livraison-prod, .prc, p.prix_old, .prod_dispo, .prod_dispo.reappro span, .prod_info_add, .prod_partage, .remise, .slider_984,.sprite-coin_promotion_detail_prod {display:none;}
+.menu_compte, p.acces_compte, p.deconnexion, p.compte_deconnexion, div#action_coord p.retour_panier a {display:none;}
+#prod_partage_submit p.submit {display:none;}
+div#colonne_droite {display:none;}
+div#menu_compte {display:none;}
+div#prod_gallery {display:none;}
+div#produit_visuel div.thumbs {display:none;}
+div#prod_details {font-size:12px;}
+div#tva {display:none;}
+p.text-icon-corner {display:none;}
+p.economie {display:none;}
+p.prix_plateforme, p.code_lpp, p.base_remb {display:none;}
+.remise {display:none;}
+table#prod_caracteristiques tr td, table#tab_contenu_panier td.details a, table#tab_contenu_panier td.telecharger a {display:none;}
+
+#prod_ligne_titre h1 {font-size:20px;}
+
+#print-area, #pdf-liste-achat-header, #pdf-liste-achat-footer {display:block;}
